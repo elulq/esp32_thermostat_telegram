@@ -17,7 +17,7 @@ int botRequestDelay = 1000;
 unsigned long lastTimeBotRan;
 
 // List of known sensors' BLE addresses, multiple device supported
-std::vector<std::string> knownBLEAddresses = {"A4:C1:38:CD:3C:B0"};
+std::vector<std::string> knownBLEAddresses = {"A4:C1:38:CD:3C:B0"}; //Cihazımızın Mac adresini giriyoruz.
 
 ATC_MiThermometer miThermometer(knownBLEAddresses);
 
