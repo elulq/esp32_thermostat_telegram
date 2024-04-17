@@ -10,5 +10,5 @@ Bu projeyi yaparken yararlandığım kaynaklar;
 Oda sıcaklığına bağlı olarak kazanı veya kombiyi açıp kapayan, yakıt tasarrufu sağlamayı amaçlayan bir cihaz. Standart termometrelerden farkı telegram üzerinden sistemi kontrol edebilmemiz (min-max dereceler ve sistemi komple açıp kapama gibi). Verileri bluetooth ile Mi termometre üzerinden alır ve esp32 kart üzerinde işler.
 Ben bunu ECA Elanus pelet yakıtlı kazan için kullandım ancak standart kombiler içinde uygundur.
 
-![termostat](https://github.com/ehlullah/esp32_thermostat/assets/29586225/d97320af-3fd5-4a06-afd8-5619506954c5)
+![termostat](https://github.com/ehlullah/esp32_thermostat_telegram/assets/29586225/2e8f11ec-b5b4-45d3-91a8-648c70bee08a)
 
